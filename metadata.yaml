@@ -18,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7195
     wikipedia: http://en.wikipedia.org/wiki/Walter_Crane
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/23479#Eight-Illustrations-to-Shakespeare-s-Tempest--13-Designed-by-Walter-Crane
 gutenberg_bookshelf: Children's Picture Books
 gutenberg_issued: '2007-11-15'
 gutenberg_type: Text
